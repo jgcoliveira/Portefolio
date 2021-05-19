@@ -1,5 +1,5 @@
 # Portefolio
-Business Intelligence and Data Analytics Portefolio by Guilherme Oliveira - Lisbon, Portugal
+Business Intelligence and Data Analytics Portefolio by **Guilherme Oliveira - Lisbon, Portugal**
 
 *Below are projects meant to demonstrate data manipulation skills necessary for Business Intelligence and Data Analyst roles, such as planning, data cleansing and modelling, data analysis and  visualization using industry-standard tools such as MS Excel, MySQL and Power BI.*
 
