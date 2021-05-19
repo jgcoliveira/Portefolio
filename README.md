@@ -11,7 +11,8 @@ modelled the data by defining the inter-table relationships
 - Linked the mySQL database to Power BI, created a data model and performed the necessary calculations using DAX
 - Created visualizations where it is possible to view:
 
-...Quarterly Sales per region, know what product categories have had the biggest growth margin compared to previous year sales
+  Quarterly Sales per region, know what product categories have had the biggest growth margin compared to previous year sales
 ![image](https://user-images.githubusercontent.com/78386715/118489795-27829e80-b715-11eb-8344-9285a3f0d831.png)
-...Sales per Region, see the their monthly evolution, learn which regions are the biggest suppliers, filter by product category
+
+  Sales per Region, see the their monthly evolution, learn which regions are the biggest suppliers, filter by product category
 ![image](https://user-images.githubusercontent.com/78386715/118489370-aa572980-b714-11eb-9f7d-2b1b214bba02.png)
