@@ -8,7 +8,7 @@ Business Intelligence and Data Analytics Portefolio by **Guilherme Oliveira - Li
 - Database Construction - created a dedicated MySQL schema and multiple tables with the necessary columns and datatypes, then loaded the .csv raw data into those tables, modelled the data by defining the inter-table relationships
 - Data Cleaning - Cleansed the data by assessing the logical relationships between the various attributes and understanding the business context, then searching for inconsistencies and data errors and taking the appropriate corrective measures
 - Linked the mySQL database to Power BI, created a data model and performed the necessary calculations using DAX
-- Created visualizations where it is possible to view:
+- Created visualizations dedicated to:
 
   Quarterly Sales overview comparing to last year. Know what product categories have sold the most.
 ![v1 4 overview_1](https://user-images.githubusercontent.com/78386715/120006458-d013e680-bfd0-11eb-96f0-d45a88bf7bc5.PNG)
