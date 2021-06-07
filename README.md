@@ -5,9 +5,8 @@ Business Intelligence and Data Analytics Portefolio by **Guilherme Oliveira - Li
 
 ## [Project 1 - E-Commerce Sales Business Review](https://github.com/jgcoliveira/ECommerce--Sales-Business-Review)
 
-- Created database by creating a dedicated MySQL schema, then creating tables with the necessary columns and datatypes, then loaded the .csv raw data into those tables
-modelled the data by defining the inter-table relationships
-- Cleansed the data by assessing the logical relationships between the various attributes and understanding the business context, then searching for inconsistencies and data errors and taking the appropriate corrective measures
+- Database Construction - created a dedicated MySQL schema and multiple tables with the necessary columns and datatypes, then loaded the .csv raw data into those tables, modelled the data by defining the inter-table relationships
+- Data Cleaning - Cleansed the data by assessing the logical relationships between the various attributes and understanding the business context, then searching for inconsistencies and data errors and taking the appropriate corrective measures
 - Linked the mySQL database to Power BI, created a data model and performed the necessary calculations using DAX
 - Created visualizations where it is possible to view:
 
