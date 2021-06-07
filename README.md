@@ -10,7 +10,7 @@ Business Intelligence and Data Analytics Portefolio by **Guilherme Oliveira - Li
 - Linked the mySQL database to Power BI, created a data model and performed the necessary calculations using DAX
 - Created visualizations dedicated to:
 
-  Quarterly Sales overview comparing to last year. Know what product categories have sold the most.
+  Quarterly Sales overview comparing to last year. Know what product categories have sold the most
 ![v1 4 overview_1](https://user-images.githubusercontent.com/78386715/120006458-d013e680-bfd0-11eb-96f0-d45a88bf7bc5.PNG)
 
   Sales per Region. See the their monthly evolution, learn which regions are the biggest suppliers, filter by product category
