@@ -1,5 +1,5 @@
 # Portefolio
-Business Intelligence and Data Analytics Portefolio by **Guilherme Oliveira - Lisbon, Portugal**
+Business Intelligence and Data Analytics Portfolio by **Guilherme Oliveira - Lisbon, Portugal**
 
 *Below are projects meant to demonstrate data manipulation skills necessary for Business Intelligence and Data Analyst roles, such as planning, data cleansing and modelling, data analysis and  visualization using industry-standard tools such as MS Excel, MySQL and Power BI.*
 
@@ -7,12 +7,20 @@ Business Intelligence and Data Analytics Portefolio by **Guilherme Oliveira - Li
 
 - Database Construction - created a dedicated MySQL schema and multiple tables with the necessary columns and datatypes, then loaded the .csv raw data into those tables, modelled the data by defining the inter-table relationships
 - Data Cleaning - Cleansed the data by assessing the logical relationships between the various attributes and understanding the business context, then searching for inconsistencies and data errors and taking the appropriate corrective measures
-- Linked the mySQL database to Power BI, created a data model and performed the necessary calculations using DAX
-- Created visualizations dedicated to:
+- Power BI Report - Linked the mySQL database to Power BI, created a data model, performed the necessary calculations using DAX to extract insights and answer business questions. Created the following visualizations:
 
-  Quarterly Sales overview comparing to last year. Know what product categories have sold the most
-![v1 4 overview_1](https://user-images.githubusercontent.com/78386715/120006458-d013e680-bfd0-11eb-96f0-d45a88bf7bc5.PNG)
+### Overview
+#### Analyse monthly evolution, discover which states represent the majority of sales and purchases, find out what are the best-selling product categories.
+![v2 0_Overview_1](https://user-images.githubusercontent.com/78386715/125784023-e5dc7b71-374c-4eaf-8301-1d466c4f260d.PNG)
 
-  Sales per Region. See the their monthly evolution, learn which regions are the biggest suppliers, filter by product category
-![v1 4 state_1](https://user-images.githubusercontent.com/78386715/120006712-0f423780-bfd1-11eb-853a-8d287ef40d80.PNG)
+### State
+#### Get an in-depth look of every state's sales performance, find out what are the best-selling product categories, discover where the orders are being shipped from.
+![v2 0_State_1](https://user-images.githubusercontent.com/78386715/125784199-03a1502f-ccf3-40c5-9abd-f40b9bbcacdd.PNG)
 
+### Payment Operations
+#### See the number of payments made per period, analyse them according to their popularity.
+![v2 0_Payment_Methods_1](https://user-images.githubusercontent.com/78386715/125784446-2ad314ff-d695-43c5-a650-2443440c329a.PNG)
+
+### Delivery Operations
+#### Track the average delivery time and number of delays throughout time and according to buyer state.
+![v2 0_Delivery_Average_1](https://user-images.githubusercontent.com/78386715/125784658-ee46bd8f-1681-4bba-84cf-7341d19dbdc4.PNG)
