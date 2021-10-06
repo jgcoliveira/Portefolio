@@ -30,7 +30,7 @@ Business Intelligence and Data Analytics Portfolio by **Guilherme Oliveira - Lis
 ## [Project 2 - Bike Share Service Users](https://github.com/jgcoliveira/Bike-Share-Service)
 
 
-**Bike Sharing Service Data BI project using using R (tidyverse packages) for data cleaning, and manipulation and visualization**
+**Bike Sharing Service Data BI project using using R (tidyverse packages) for data cleaning, manipulation and visualization**
 *All tasks were performed using R tidyverse packages via the RStudio IDE*
 
 - Data Colection and Preparation - Collected and combined data from multiple .csv files into a single one by making sure they all had common columns, with the same type of observations and data types.
