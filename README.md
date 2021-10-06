@@ -35,7 +35,7 @@ Business Intelligence and Data Analytics Portfolio by **Guilherme Oliveira - Lis
 
 - Data Colection and Preparation - Collected and combined data from multiple .csv files into a single one by making sure they all had common columns, with the same type of observations and data types.
 - Data Cleaning and Manipulation - Cleaned the data by inspecting it, detecting anomalies (such as unwanted characters, inconsistent data, useless observations) and then proceeding to using R's multiple cleaning tools (janitor, skymr, dplyr).
-- Summary Analyisis, Findings and Visualizations - created pipes to wrangle the cleaned data and perform a descriptive summary analysis, then proceeded to visualize those same statistics by plotting graphs using ggplot2.
+- Summary Analysis, Findings and Visualizations - created pipes to wrangle the cleaned data and perform a descriptive summary analysis, then proceeded to visualize those same statistics by plotting graphs using ggplot2.
 
 ### Total Number of Rides per Weekday, User Type
 #### See the number of rides made throughout the week, their evolution and how they vary from user member to casual user.
